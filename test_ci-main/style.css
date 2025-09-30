@@ -1,0 +1,25 @@
+body{
+  font-family: sans-serif;
+  background-color: #f5f5c7;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 1rem;
+}
+
+img {
+  max-width: 350px;
+  border-radius: 15px;
+  margin: 20px 0;
+}
+
+footer {
+  background-color: #eee;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
